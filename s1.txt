@@ -1,0 +1,13 @@
+https://www.python.org/
+Esta ferramenta será usada com objetivo de amplificar o mindset
+
+https://github.com/
+Sera usada para armazenar os conteúdos aprendidos em sala
+
+https://code.visualstudio.com/
+Usado para desenvolver programas para serem aplicados,editor de texto,IDE
+
+https://sqlitebrowser.org/
+É um banco de dados leve e prático
+
+Luis Carlos Pastura Macedo
